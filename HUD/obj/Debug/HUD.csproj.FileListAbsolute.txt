@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\bin\Debug\HUD.dll
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\bin\Debug\HUD.pdb
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUDControl.g.cs
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD_MarkupCompile.cache
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD_MarkupCompile.lref
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUDControl.baml
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD.g.resources
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD.dll
+C:\Users\lenovo\Desktop\HUD-master\HUD-master\HUD\obj\Debug\HUD.pdb
